@@ -1,1 +1,0 @@
-# pharaoh-gold-bot
