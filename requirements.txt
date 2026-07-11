@@ -1,6 +1,6 @@
 streamlit
 yfinance
-pandas==2.2.2
+pandas
 pandas-ta
 matplotlib
 requests
